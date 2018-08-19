@@ -14,7 +14,7 @@ This is a Desktop based application mainly used for ordering food.
 
 <h2> How to run the project : </h2>
 
-1. Import database (food_shop.sql) file to MySql server.
+1. Create a database named food_shop. Import database (food_shop.sql) file inside this database to MySql server.
 
 2. It'll probably give an error, because this database file size exceeded deafult MySql database importing filesize.
 
