@@ -1,7 +1,8 @@
 <h2> Food Ordering System: </h2>
 
 This is a Desktop based application mainly used for ordering food.
-Features: 
+
+<b>Features:</b>
 * User can register, view menu, order food from anywhere, manage their profile.
 * Anyone can order food, but registered users get discount/promotion.
 * Admin can place food order inside food shop, modify his profile info.
